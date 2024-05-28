@@ -5,3 +5,4 @@ int x = 3; int y = 7;
 int a = x + y;
 print(a);
 int 8
+string hidden
